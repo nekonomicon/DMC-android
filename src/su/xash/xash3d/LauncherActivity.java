@@ -21,7 +21,7 @@ import android.content.pm.PackageManager;
 import android.content.SharedPreferences;
 import java.io.File;
 
-import su.xash.xash3d.rpoint.R;
+import su.xash.xash3d.dmc.R;
 
 public class LauncherActivity extends Activity {
 	static EditText cmdArgs;
