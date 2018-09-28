@@ -4,7 +4,7 @@
       package="su.xash.xash3d.dmc"
       android:versionCode="351"
       android:versionName="1.1.1">
-    <uses-sdk android:minSdkVersion="3" android:targetSdkVersion="23"/>
+    <uses-sdk android:minSdkVersion="9" android:targetSdkVersion="23"/>
     <!-- Set your application name here -->
     <application android:label="QCLauncher"
 		 android:debuggable="false"
